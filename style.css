@@ -243,7 +243,7 @@ h1 {
 	.header_home_content {
 		position: absolute;
 		top: 57%;
-		right: -2.3vw;
+		right: 0vw;
 	}
 
 	.header_home_content p {
@@ -255,6 +255,10 @@ h1 {
 		color: white;
 		text-decoration: none;
 		margin-left: 2vw;
+	}
+
+	.main_home {
+		padding: 5vw 8vw;
 	}
 
 	.main_home h2 {
@@ -283,22 +287,33 @@ h1 {
 	}
 
 	.links a {
-		font-size: 3vw;
+		font-size: 4.2vw;
 	}
 
 	.links_2 a {
-		font-size: 3vw;
-	}
-
-	.header_home_link {
-		padding: 0 2vw 0.8vw 2vw;
+		font-size: 3.3vw;
 	}
 
 	.links_2 {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		padding: 1.5vw;
+		margin-top: -1vw;
+	}
 
+	.header_home_link {
+		padding: 2vw;
+	}
+
+	.sertificat_jpg {
+		width: 30vw;
+	}
+
+	.molbert {
+		width: 90vw;
+		top: -27vw;
+		left: -23vw;
+	}
+
+	.sertificat {
+		margin-left: 50%;
+		margin-top: 30vw;
 	}
 }
