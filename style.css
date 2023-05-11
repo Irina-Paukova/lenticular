@@ -243,7 +243,7 @@ h1 {
 	.header_home_content {
 		position: absolute;
 		top: 57%;
-		right: 0vw;
+		right: 9vw;
 	}
 
 	.header_home_content p {
@@ -251,9 +251,7 @@ h1 {
 	}
 
 	.header_home_content a {
-		display: inline-block;
-		color: white;
-		text-decoration: none;
+		display: block;
 		margin-left: 2vw;
 	}
 
@@ -262,7 +260,7 @@ h1 {
 	}
 
 	.main_home h2 {
-		font-size: 2.5vw;
+		font-size: 3vw;
 	}
 
 	.main_home p {
