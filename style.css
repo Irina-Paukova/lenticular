@@ -221,6 +221,25 @@ h1 {
 	margin: 0;
 }
 
+.main_home {
+	text-align: center;
+}
+
+.collection_photo {
+	width: 32%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width: 600px) {
 	.header h1 {
 		font-size: 13vw;
@@ -313,5 +332,9 @@ h1 {
 	.sertificat {
 		margin-left: 50%;
 		margin-top: 30vw;
+	}
+
+	.collection_photo {
+		width: 100%;
 	}
 }
